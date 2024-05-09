@@ -1,4 +1,4 @@
-# Recruitment_System_Using_Java_JDBC
+# Gym_Management_System_Using_PHP
 Gym management system "FitnessPro" is website to create membership with user and admin two different elements.
 User can access webpage and join as member by registering,and do online payment to join the gym.User can also give provide feedback supporting Agile methodology.
 Admin has complete control and adding,editing,deleting trainers,members and also check feedback.
